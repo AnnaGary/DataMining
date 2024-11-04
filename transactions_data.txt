@@ -1,0 +1,10 @@
+Lime,Queso,Salsa,Salt,Tortilla chips
+Ranch dip,Salsa,Tortilla chips
+Queso,Tortilla chips
+Potato chips,Ranch dip
+Salsa,Tortilla chips
+Queso,Salsa,Tortilla chips
+Pita chips,Ranch dip
+Guacamole,Tortilla chips
+Guacamole,Queso,Salsa,Tortilla chips
+Pita chips,Salsa
